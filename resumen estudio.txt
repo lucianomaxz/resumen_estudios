@@ -1,4 +1,4 @@
-CONFIGURACIÓN CUANDO COMIENZO UN PROYECTO CON GIT
+﻿CONFIGURACIÓN CUANDO COMIENZO UN PROYECTO CON GIT
 
 *Siempre al empezar un proyecto primero primero inspecciono los elementos :
 ls
@@ -8,7 +8,7 @@ git config —global user.name “Volta”
 Git config —global user.email “giovoltadesign@gmail.com
 
 
-$ git --version
+$ git --version xd
 					
 					$ git config --global user.name "TU NOMBRE"
 					
